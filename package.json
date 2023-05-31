@@ -1,0 +1,21 @@
+{
+  "name": "mr_barriga",
+  "version": "1.0.0",
+  "description": "This is an application developed in Cypress to learn basis concepts",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "Cypress",
+    "JavaScript",
+    "cd/ci",
+    "Git",
+    "Github"
+  ],
+  "author": "Vinicius Frasson",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
